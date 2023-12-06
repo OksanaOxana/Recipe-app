@@ -5,7 +5,7 @@
  <h3 align="center">Recipe app</h3>
 <div align="center">
   <a href="[https://github.com/OksanaOxana/Recipe-app](https://github.com/OksanaOxana/Recipe-app)">
-    <img src="src/photo_app.jpg" alt="Logo" width="80" height="100">
+    <img src="src/photo_app.jpg" alt="Logo" width="280" height="200">
   </a>
 </div> 
 
